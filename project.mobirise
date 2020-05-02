@@ -51,8 +51,8 @@
             "overlayColor": "#5bc0de",
             "overlayOpacity": "0.7"
           },
-          "title": "Jungo.pro",
-          "text": "Olivier JUNGO , Consultant IT et Geekologue.",
+          "title": "Olivier Jungo",
+          "text": "Consultant IT et Geekologue.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contactez-moi</a> ",
           "alias": "purity/components",
           "_tags": [
@@ -62,7 +62,10 @@
           "_anchor": "header4-a",
           "_styles": {
             "H1": {
-              "color": "#000000"
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
             }
           }
         },
@@ -74,15 +77,15 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "25",
+            "imageSize": "14",
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#58c782",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/mt0ODe2YY4s?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/watch?v=mt0ODe2YY4s",
@@ -95,8 +98,9 @@
           },
           "media": {
             "image": {
+              "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/joel-filipe-ju9vazdgmzs-unsplash-1400x1336.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -105,8 +109,7 @@
               "src": "https://www.youtube.com/watch?v=mt0ODe2YY4s",
               "aspectratio": "16:9",
               "autoplay": "on",
-              "loop": "on",
-              "active": true
+              "loop": "on"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
@@ -127,8 +130,8 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -138,7 +141,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "text": "Follow Us",
+          "text": "&nbsp;",
           "icons": "       <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-linkedin\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/ojungo\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-linkedin\"></i></a> ",
           "alias": "purity/components",
           "_tags": [
