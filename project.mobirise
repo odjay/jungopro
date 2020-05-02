@@ -39,7 +39,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/lance-anderson-qdaaasrzhdk-unsplash-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -49,7 +49,7 @@
             },
             "overlay": true,
             "overlayColor": "#5bc0de",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.7"
           },
           "title": "Jungo.pro",
           "text": "Olivier JUNGO , Consultant IT et Geekologue.",
@@ -76,18 +76,21 @@
             "inverse": true,
             "imageSize": "25",
             "paddingTop": "2",
-            "paddingBottom": "4",
+            "paddingBottom": "3",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#58c782",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/mt0ODe2YY4s?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=mt0ODe2YY4s",
+              "width": 1280,
+              "height": 720
             },
-            "overlay": false,
-            "overlayColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#5cb85c",
             "overlayOpacity": 0.5
           },
           "media": {
