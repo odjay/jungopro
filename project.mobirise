@@ -17,14 +17,23 @@
     "siteFonts": [],
     "imageResize": true,
     "uniqCompNum": 0,
-    "versionPublish": "4.12.3"
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/android-chrome-192x192-128x128.png",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "witsec-mailform": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Jungo.pro",
+        "meta_descr": "Jungo.pro",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
